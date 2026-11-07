@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Knowledge data is never part of the repo — point `rootDir` at your own folder.
+entries.json
+.kb-data/
